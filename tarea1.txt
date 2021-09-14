@@ -1,0 +1,10 @@
+*** Numeros ingresados ***
+
+Primer numero: 3
+Segundo numero: 4
+
+*** Resultados de Operaciones ***
+
+Suma:7
+Resta:-1
+Multiplicación:12
